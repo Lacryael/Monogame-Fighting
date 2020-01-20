@@ -1,0 +1,18 @@
+﻿2019-12-22 22:08:55> Program: Starting Squirrel Updater: --releasify MyApp.1.0.0.nupkg
+2019-12-22 22:08:56> Program: Bootstrapper EXE found at:D:\Game\PoniFei\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2019-12-22 22:08:56> Unhandled exception: System.IO.FileNotFoundException: Файл 'MyApp.1.0.0.nupkg' не найден.
+Имя файла: 'MyApp.1.0.0.nupkg'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   в System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+2019-12-22 22:10:03> Program: Starting Squirrel Updater: --releasify PoniFei.2.0.0.nupkg
+2019-12-22 22:10:03> Program: Bootstrapper EXE found at:D:\Game\PoniFei\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2019-12-22 22:10:03> Program: Creating release package: D:\Game\PoniFei\PoniFei\bin\Windows\x86\Release\Releases\PoniFei.2.0.0.nupkg
+2019-12-22 22:10:03> ReleasePackage: Creating release package: D:\Game\PoniFei\PoniFei\bin\Windows\x86\Release\Releases\PoniFei.2.0.0.nupkg => D:\Game\PoniFei\PoniFei\bin\Windows\x86\Release\Releases\PoniFei-2.0.0-full.nupkg
+2019-12-22 22:10:05> ReleasePackage: Extracting dependent packages: []
+2019-12-22 22:10:05> ReleasePackage: Removing unnecessary data
+2019-12-22 22:10:05> ReleasePackage: No release notes found in C:\Users\snowl\AppData\Local\SquirrelTemp\tempa\PoniFei.nuspec
+2019-12-22 22:10:06> Program: Building embedded zip file for Setup.exe

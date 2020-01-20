@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Game/PoniFei/PoniFei/Content/Controls/HpOrange2.png","D:/Game/PoniFei/PoniFei/Content/bin/Windows/Controls/HpOrange2.xnb","TextureProcessor","Texture2DContent",19048,37885,0
+"D:/Game/PoniFei/PoniFei/Content/Controls/pauseL2.png","D:/Game/PoniFei/PoniFei/Content/bin/Windows/Controls/pauseL2.xnb","TextureProcessor","Texture2DContent",451816,3196085,0,2548785
+"D:/Game/PoniFei/PoniFei/Content/Controls/pauseW1.png","D:/Game/PoniFei/PoniFei/Content/bin/Windows/Controls/pauseW1.xnb","TextureProcessor","Texture2DContent",451434,3196085,0,1378857

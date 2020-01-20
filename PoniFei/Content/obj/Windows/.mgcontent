@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/blink.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/daze.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/nya1.wav</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/nya2.wav</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/pain1.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/pain2.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/pain3.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/polet1.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/polet2.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/polet3.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/polet4.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/shag1.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/shag2.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/shag3.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/shag4.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/shag5.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/shoot.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/suicide.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/tuturu.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Audio/udar.mp3</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/Background.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/Background1.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/Background2.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/Background3.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/BackgroundULT.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/BackgroundUP.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapChina.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapCity.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapCrip.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapDesert.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapForest.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapFort.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapGiga.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapNCity.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapNight.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapOffice.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapPark.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapPlanet.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapRoom.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapSnow.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapTrain.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapTree.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapVilage.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/MapWinter.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Background/TestBack.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Bullet.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Bullet2.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/AppleRam.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/AppleRam2.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/backButton1 — копия.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/backButton1.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/BlumRam.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/Button1q.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/Button2q.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/Button3q.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/cursor.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/FloRam.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/FloraRam.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/ForestRam.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/FortRam.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/Hp.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/Hp2.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/Hp22.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/HpBack.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/HpGreen.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/HpGreen2.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/HpOrange.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/HpOrange2.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/HpRed.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/HpRed2.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/IskRam.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/LelRam.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/Mana.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/Mana1.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/Mana2.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/MuzRam.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/pause.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/pauseL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/pauseL2.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/pauseW.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/pauseW1.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/PinkiRam.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/PinkiRam1.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/PinkiRam2.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/Ploti.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RainbowRam.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RainbowRam2.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RamChina.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RamCity.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RamCrip.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RamDesert.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RamGiga.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/Ramka.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RamNCity.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RamNight.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RamOffice.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RamPark.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RamPlanet.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RamRoom.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RamSnow.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RamTrain.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RamTree.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RamVilage.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RamWinter.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RarRam.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/RarRam2.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/StlRam.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Controls/TekRam.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Explosion.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Fonts/Font.spritefont</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Fonts/Font2.spritefont</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/BlokL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/BlokR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/Dead.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/JumpingEndL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/JumpingEndR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/JumpingL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/JumpingR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/ShootL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/ShootR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/Suicide.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/UdarL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/UdarR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/ULTA.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/ULTAL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/WalkingLeft.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/WalkingLeftBack.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/WalkingRight.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Apple/WalkingRightBack.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/BlokL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/BlokR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/Dead.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/JumpingEndL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/JumpingEndR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/JumpingL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/JumpingR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/ShootL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/ShootR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/Suicide.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/UdarL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/UdarR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/ULTA.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/ULTAL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/WalkingLeft.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/WalkingLeftBack.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/WalkingRight.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Pinki/WalkingRightBack.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/BlokL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/BlokR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/Dead.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/JumpingEndL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/JumpingEndR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/JumpingL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/JumpingR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/ShootL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/ShootR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/Suicide.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/UdarL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/UdarR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/ULTA.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/ULTAL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/WalkingLeft.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/WalkingLeftBack.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/WalkingRight.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rainbow/WalkingRightBack.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/BlokL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/BlokR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/Dead.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/JumpingEndL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/JumpingEndR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/JumpingL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/JumpingR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/ShootL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/ShootR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/Suicide.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/UdarL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/UdarR.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/ULTA.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/ULTAL.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/WalkingLeft.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/WalkingLeftBack.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/WalkingRight.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Heroes/Rar/WalkingRightBack.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/StartState/TestBack.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/StartState/TestBack1.png</File>
+    <File>D:/Game/PoniFei/PoniFei/Content/Udar.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

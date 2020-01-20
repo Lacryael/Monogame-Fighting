@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Game/PoniFei/PoniFei/Content/Audio/shag3.mp3</SourceFile>
+  <SourceTime>2019-12-04T19:49:51.4668295+05:00</SourceTime>
+  <DestFile>D:/Game/PoniFei/PoniFei/Content/bin/Windows/Audio/shag3.xnb</DestFile>
+  <DestTime>2019-12-04T22:19:08.9126018+05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T21:35:54+05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T21:35:54+05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
