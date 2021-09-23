@@ -1,2 +1,2 @@
 # Monogame-Fighting
-PoniFei
+PoniFei - 2d fighting game in monogame (C#)
